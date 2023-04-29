@@ -5,8 +5,8 @@
 <br/>
 <br/>
 
-Just analysing stock fundamentals and returns.<br/>
-And Inferential Statistics
+Just analysing stock fundamentals and returns. (Best fundamental predictor of returns)<br/>
+And Inferential Statistics.
  
 
 <br/>
